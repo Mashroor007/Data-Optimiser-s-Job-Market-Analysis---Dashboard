@@ -13,7 +13,7 @@ The dashboard is designed to uncover job trends, role-based demand, essential sk
 - **Trend analysis** of job applications over time  
 - Skill-based **demand insights**  
 - **AI-powered visuals** for keyword extraction & text analysis  
-- Comparison of **job openings vs applicants**  
+- Comparison of **Posted Jobs vs applicants**  
 
 ---
 
@@ -24,7 +24,6 @@ The dashboard is designed to uncover job trends, role-based demand, essential sk
 -  **Cloud** **SQL** is the most frequently required skill in job postings.  
 - Most opportunities target **mid-senior level professionals**.  
 - **United States** leads with the highest number of openings and applicants.  
-- In **Data Science**, applicants are ~15x higher than openings; in **Data Analysis**, applicants are ~30x higher.  
 - **Skilled professionals** represent the largest group of applicants.  
 
 ---
